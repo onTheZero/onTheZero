@@ -9,7 +9,9 @@
   Itch.io: 
   <a href="https://onthezero.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-8A2BE2" alt="Itch.io Badge"/>
-  </a>
+  </a><br>
+  Capstone Project:
+  https://github.com/JoJaBa-UMGC/CMSC-495-Project
 </div>
 
 <!--
