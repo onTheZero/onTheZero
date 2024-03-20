@@ -2,9 +2,11 @@
 
 
 <div id="badges">
+  Linkedin: 
   <a href="https://www.linkedin.com/in/jordankozlowski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br>
+  Itch.io: 
   <a href="https://onthezero.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-8A2BE2" alt="Itch.io Badge"/>
   </a>
